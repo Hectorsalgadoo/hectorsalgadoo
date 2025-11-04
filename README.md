@@ -3,6 +3,7 @@
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP  
 🚀 Apaixonado por **desenvolvimento web, React, e Java**  
 🎯 Buscando oportunidades em **desenvolvimento front-end / full stack**
+📚 Sempre buscando evoluir e aprender algo novo a cada projeto
 
 ---
 
@@ -15,8 +16,9 @@
 
 ## 📚 Projetos em destaque:
 - 🐶 [Petshop - Projeto Java (FIAP)](https://github.com/hectorsalgadoo/cp2_Nomes)
-- 💳 [Página de Pagamento em React](https://github.com/hectorsalgadoo/pagamento-react)
+- 💳 [Página de Pagamento em React (FIAP)](https://github.com/cp-05-frontend-1tdspj-2025/access-control-cp)
 - ✅ [Integracao de java com web](https://github.com/Hectorsalgadoo/tarefa-web-app)
+- 💧  [Projeto de cisterna inteligente (FIAP)](https://github.com/UsoAzul-1TDSPJ/Front)
 
 ---
 
