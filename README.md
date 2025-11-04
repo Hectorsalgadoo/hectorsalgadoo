@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Hector Salgado!
 
-<!--
-**Hectorsalgadoo/hectorsalgadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP  
+🚀 Apaixonado por **desenvolvimento web, React, e Java**  
+🎯 Buscando oportunidades em **desenvolvimento front-end / full stack**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologias que utilizo:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,vite,js,react,java,py,git,github,vscode" />
+</div>
+
+---
+
+## 📚 Projetos em destaque:
+- 🐶 [Petshop - Projeto Java (FIAP)](https://github.com/hectorsalgadoo/cp2_Nomes)
+- 💳 [Página de Pagamento em React](https://github.com/hectorsalgadoo/pagamento-react)
+- ✅ [Integracao de java com web](https://github.com/Hectorsalgadoo/tarefa-web-app)
+
+---
+
+## 📈 Estatísticas do GitHub:
+![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorsalgadoo&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorsalgadoo&layout=compact&theme=radical)
+
+---
+
+## 🌐 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-soria-76ab6726b/)
+[![Email](https://img.shields.io/badge/Email-ContactMe-green)](mailto:hectorsoria2@outlook.com)
